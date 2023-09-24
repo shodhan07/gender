@@ -1,0 +1,23 @@
+#yo {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: lightgray;
+    color: black;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+body {
+    background-color: darkblue;
+}
+#yoo{
+    border-style: solid;
+    padding: 10px;
+    max-width: 500px;
+
+}
+#yooo{
+    /* background-color: green; */
+    color: red;
+    max-width: 300;
+}

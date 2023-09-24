@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+}
+#bro{
+    max-width: 500px;
+    max-height: 400px;
+    background-color: lightgray;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+#yooo{
+    border: 1px black solid;
+    padding: 5px;
+}
+#yes{
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+}
+#yesno{
+    display: none;
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+}
+
+#text{
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+}
